@@ -1,0 +1,36 @@
+body{
+    background-color: lightcyan;
+}
+
+h1{
+    font-family:"Alegreya SC";
+    display: block;
+    text-align: center;
+    border: 2px dotted cornflowerblue;
+    text-shadow: 2px 1px 2px darkcyan;
+    position: relative;
+    top: 10px;
+}
+
+#image{
+    width: 10%;
+}
+
+.result{
+    display: block;
+    text-align: center;
+    margin: 25px auto 25px auto;
+    font-family: Athelas;
+    color: cadetblue;
+}
+
+.enter{
+    display: block;
+    text-align: center;
+    font-family: Athelas;
+    margin: 3px auto 3px auto;
+}
+
+#button{
+    border: 2px dotted cornflowerblue;
+}
