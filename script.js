@@ -129,7 +129,7 @@ function determineSign(month, day){
 function determineHoroscope(zodiac){
     var sign = zodiac;
     var horoscope = "";
-    if(sign == "astSign[1]"){
+    if(sign == "Aquarius"){
         horoscope = messages[0];
     }else if(sign == "Pisces"){
         horoscope = messages[1];
